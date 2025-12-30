@@ -34,3 +34,14 @@ Math Mentor is a modular, AI-assisted mathematical problem-solving web applicati
 ## Why This Project Matters
 
 Math Mentor demonstrates strong skills in problem decomposition, algorithmic thinking, symbolic computation, and modular backend design. It reflects the ability to build production-ready, explainable AI tools with a focus on user experience and scalability.
+
+
+## 📸 Screenshots
+
+![image](https://github.com/AppalaNikitha/Multimodal-Math-Mentor/blob/Images/Screenshot%202025-12-30%20182246.png?raw=true)
+
+![image](https://github.com/AppalaNikitha/Multimodal-Math-Mentor/blob/Images/Screenshot%202025-12-30%20182326.png?raw=true)
+
+![image](https://github.com/AppalaNikitha/Multimodal-Math-Mentor/blob/Images/Screenshot%202025-12-30%20182341.png?raw=true)
+
+![image](https://github.com/AppalaNikitha/Multimodal-Math-Mentor/blob/Images/Screenshot%202025-12-30%20182405.png?raw=true)
